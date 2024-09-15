@@ -1,2 +1,15 @@
-# MyEdMaster-ASUCapstone-LLM-Generated-Customized-Instructional-Content
+# MyEdMaster-LLM-Generated-Customized-Instructional-Content
 This repository is to track the teams progress ss part of Capstone Project. We are contributing to design and development of LLM-Generated Customized Instructional Content
+
+#Project Goals:
+  1. Develop an AI-powered system for creating personalized instructional content.
+  2. Build an intuitive dashboard for users to customize and manage content.
+  3. Integrate the solution with Learning Management Systems (LMS) for seamless content delivery.
+
+#Key Features:
+  1. Content generation using advanced LLM models.
+  2. Customization of instructional materials based on learner profiles.
+  3. Scalable solution for educational and corporate environments.
+
+#Contributing:
+Team members are encouraged to follow the contributing guidelines for code submissions, pull requests, and issue tracking. Please refer to the project board for task assignments and milestones(Yet to be completed).

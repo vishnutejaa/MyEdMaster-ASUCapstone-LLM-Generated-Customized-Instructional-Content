@@ -11,5 +11,5 @@ This repository is to track the teams progress ss part of Capstone Project. We a
   2. Customization of instructional materials based on learner profiles.
   3. Scalable solution for educational and corporate environments.
 
-#Contributing:
+Contributing:
 Team members are encouraged to follow the contributing guidelines for code submissions, pull requests, and issue tracking. Please refer to the project board for task assignments and milestones(Yet to be completed).

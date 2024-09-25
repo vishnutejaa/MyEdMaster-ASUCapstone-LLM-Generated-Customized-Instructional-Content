@@ -2,9 +2,11 @@
 This repository is to track the teams progress ss part of Capstone Project. We are contributing to design and development of LLM-Generated Customized Instructional Content
 
 #Project Goals:
-  1. Develop an AI-powered system for creating personalized instructional content.
-  2. Build an intuitive dashboard for users to customize and manage content.
-  3. Integrate the solution with Learning Management Systems (LMS) for seamless content delivery.
+  1.  Research, Investigate and find out the optimal LLM for our platform.
+  2.  Define validation framework and testing
+  3.  Develop an AI-powered system for creating personalized instructional content.
+  4. Build an intuitive dashboard for users to customize and manage content.
+  5. Integrate the solution with Learning Management Systems (LMS) for seamless content delivery.
 
 #Key Features:
   1. Content generation using advanced LLM models.

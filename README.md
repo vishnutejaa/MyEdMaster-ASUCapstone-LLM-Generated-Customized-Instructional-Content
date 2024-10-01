@@ -15,3 +15,6 @@ This repository is to track the teams progress ss part of Capstone Project. We a
 
 Contributing:
 Team members are encouraged to follow the contributing guidelines for code submissions, pull requests, and issue tracking. Please refer to the project board for task assignments and milestones(Yet to be completed).
+
+
+Sprint1 -  Restrospective: https://docs.google.com/document/d/1YIkFnI8RFRmZoC2PE30GydCVpHK7hlsskcUhBH_HM-U/edit?usp=sharing

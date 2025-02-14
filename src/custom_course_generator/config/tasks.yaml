@@ -1,0 +1,19 @@
+skill_assessment_task:
+  description: "Create and administer a skill assessment to evaluate the student's current proficiency."
+  expected_output: "Assessment results detailing the student's strengths and areas for improvement."
+  agent: skill_assessment_agent
+
+curriculum_design_task:
+  description: "Develop a personalized learning path based on assessment results."
+  expected_output: "A structured curriculum outline tailored to the student's needs."
+  agent: course_designer_agent
+
+content_generation_task:
+  description: "Produce educational materials for the first module of the curriculum."
+  expected_output: "Lesson plans, study guides, and multimedia content for the initial module."
+  agent: content_generator_agent
+
+engagement_feedback_task:
+  description: "Design interactive quizzes and gather student feedback."
+  expected_output: "Quizzes and a report on student engagement metrics."
+  agent: engagement_feedback_agent

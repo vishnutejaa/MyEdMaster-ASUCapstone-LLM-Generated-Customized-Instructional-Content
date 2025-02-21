@@ -1,0 +1,6 @@
+{
+    "student_id": "12345",
+    "math": {"self_assessed_level": 7, "confidence": 8},
+    "physics": {"self_assessed_level": 6, "confidence": 7},
+    "chemistry": {"self_assessed_level": 5, "confidence": 6}
+}

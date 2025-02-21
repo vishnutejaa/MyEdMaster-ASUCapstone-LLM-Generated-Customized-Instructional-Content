@@ -1,0 +1,20 @@
+{
+    "math": {
+        "questions": [
+            {"question": "Solve for x: 2x + 5 = 15", "difficulty": "medium"},
+            {"question": "Find the derivative of x^2 + 3x + 5", "difficulty": "hard"}
+        ]
+    },
+    "physics": {
+        "questions": [
+            {"question": "Explain Newton's Second Law of Motion", "difficulty": "easy"},
+            {"question": "Calculate the force needed to accelerate a 5kg mass at 2m/s²", "difficulty": "medium"}
+        ]
+    },
+    "chemistry": {
+        "questions": [
+            {"question": "What is the atomic number of oxygen?", "difficulty": "easy"},
+            {"question": "Describe the process of covalent bonding", "difficulty": "medium"}
+        ]
+    }
+}

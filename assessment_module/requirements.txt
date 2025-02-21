@@ -1,0 +1,9 @@
+flask
+python-dotenv
+langchain-openai
+langchain-community
+autogen
+
+# Optional dependencies for testing and development
+pytest==8.0.0
+requests==2.31.0
